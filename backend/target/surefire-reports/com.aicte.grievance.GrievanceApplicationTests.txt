@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aicte.grievance.GrievanceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.41 s -- in com.aicte.grievance.GrievanceApplicationTests
